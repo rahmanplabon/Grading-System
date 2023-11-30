@@ -1,3 +1,7 @@
+//Author: Plabon Rahman
+//Github: https://github.com/rahmanplabon
+//Last Modified: 30/11/2023; 13:32
+//Code Purpose: Calculate Net-Run-Rate in Cricket
 #include<stdio.h>
 int main()
 {
